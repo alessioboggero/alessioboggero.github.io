@@ -8,10 +8,12 @@ a simulated terminal developed to explore a master course portfolio<br/>
 
 this is the list of and links to the projects and thoughts developed by alessioboggero during this programme.<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 
-<p>a food nerd who pretends to be a designer<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>here is some link about things i like or got inspired by. <br><br><br> . <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> here you find past projects and pictures <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p>a food nerd who pretends to be a designer</p>
+<a href="link"> portfolio</a> <!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>here is some link about things i like or got inspired by. <br><br><br> . <a href="link"> Here you go</a>.</p>
+<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> here you find past projects and pictures <br> <a href="uno">Profile1</a> <br> <a href="due">Profile2</a> and <br> <a href="tre">Profile3</a>.</p>
 
-<!-- slightdelayhere-->, email at<!-- longlonglongcomment --><a href="alessio.boggero@students.iaac.net">Email</a>.
+<!-- slightdelayhere-->, email at <!-- longlonglonglonglongcomment --><a href="alessio.boggero@students.iaac.net">Email</a>.
 
 <p>bye</p>
