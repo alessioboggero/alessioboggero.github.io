@@ -97,7 +97,7 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=9;
+Typer.speed=1;
 Typer.file="alessioboggero.txt";
 Typer.init();
  
