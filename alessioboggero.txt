@@ -9,11 +9,12 @@ a simulated terminal developed to explore a master course portfolio<br/>
 this is the list of and links to the projects and thoughts developed by alessioboggero during this programme.<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 
 <p>a food nerd who pretends to be a designer</p>
-<a href="link"> portfolio</a> <!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>here is some link about things i like or got inspired by <br><br><br> <a href="link"> Here you go</a> </p>
+<a href="link"> portfolio</a> 
+<!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>here is some links about things i like or got inspired by <br><br><br> <a href="link"> cool.link</a> </p>
 <!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> here you find past projects and pictures <br> <a href="uno">Profile1</a> <br> <a href="due">Profile2</a> <br> <a href="tre">Profile3</a>.</p>
+<p> here you find past projects and pictures <br> <a href="Link">uno</a> <br> <a href="Link2">due</a> <br> <a href="Link3">tre</a>.</p>
 
-<!-- slightdelayhere-->, email at <!-- longlonglonglonglongcomment --><a href="alessio.boggero@students.iaac.net">Email</a>.
+<!-- slightdelayhere-->, email at <!-- longlonglonglonglongcomment --><a href="alessio.boggero@students.iaac.net">alessio.boggero@students.iaac.net</a>.
 
 <p>bye</p>
