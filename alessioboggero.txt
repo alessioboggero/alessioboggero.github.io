@@ -10,9 +10,9 @@ this is the list of and links to the projects and thoughts developed by alessiob
 
 <p>a food nerd who pretends to be a designer</p>
 <a href="link"> portfolio</a> <!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>here is some link about things i like or got inspired by. <br><br><br> . <a href="link"> Here you go</a>.</p>
+<p>here is some link about things i like or got inspired by <br><br><br> <a href="link"> Here you go</a> </p>
 <!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> here you find past projects and pictures <br> <a href="uno">Profile1</a> <br> <a href="due">Profile2</a> and <br> <a href="tre">Profile3</a>.</p>
+<p> here you find past projects and pictures <br> <a href="uno">Profile1</a> <br> <a href="due">Profile2</a> <br> <a href="tre">Profile3</a>.</p>
 
 <!-- slightdelayhere-->, email at <!-- longlonglonglonglongcomment --><a href="alessio.boggero@students.iaac.net">Email</a>.
 
