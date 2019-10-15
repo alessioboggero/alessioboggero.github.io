@@ -1,0 +1,13 @@
+<span id="a">alessioboggero</span>:<span id="b">~</span><span id="c">$</span> cd LiquidMatter/<!-- laglaglaglaglaglag -->Info
+<span id="a">alessioboggero</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->alessioboggero.txt<br/><br/>
+This is a simulated terminal developed to explore a master course portfolio, "<span id="k">Deisgn for Emergent Futures</span>". <!-- sjkfhskjf -->
+
+this is the list of and links to the projects and thoughts developed by alessioboggero during this programme.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+<p>please be kind about it.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>a food nerd who pretends to be a designer<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>here is some link about things i like or got inspired by. <br><br><br> . <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> here you find past projects and pictures <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+
+<!-- slightdelayhere-->, email at<!-- longlonglongcomment --><a href="alessio.boggero@students.iaac.net">Email</a>.
+
+<p>bye</p>
